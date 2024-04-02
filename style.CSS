@@ -26,3 +26,27 @@ div img {
 h1, h2 {
     font-family: 'lora', serif;
 }
+h1 {
+    font-size: 40px;
+    color: #312e2c;
+    line-height: 50%;
+    margin-bottom: 24px;
+}
+
+p, li, th, td {
+    font-family: 'outfit', sans-serif;
+
+}
+
+p{
+    color: #5f564d;
+    line-height: 150%;
+    margin-bottom: 32px;
+
+}
+.tempo {
+background-color: #fff7fb;
+padding: 28px;
+border-radius: 12px;
+
+}
